@@ -1,0 +1,1 @@
+Siden er blevet skabt på en computer hvor OS er indstillet til 100%  skærm zoom uden dette vil siden skalere forkert
